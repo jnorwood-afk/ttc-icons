@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Briefcase body -->
+  <rect x="8" y="24" width="48" height="32" rx="4" stroke="#0B6F73" stroke-width="1.8"/>
+  <!-- Briefcase handle -->
+  <path d="M22 24 L22 18 C22 15 26 12 32 12 C38 12 42 15 42 18 L42 24" stroke="#0B6F73" stroke-width="1.7" stroke-linecap="round"/>
+  <!-- Center clasp line -->
+  <line x1="8" y1="38" x2="56" y2="38" stroke="#0B6F73" stroke-width="1.4" stroke-linecap="round" opacity="0.4"/>
+  <!-- Clasp -->
+  <rect x="28" y="34" width="8" height="8" rx="2" stroke="#0B6F73" stroke-width="1.5"/>
+  <!-- Return arrow suggesting return to work -->
+  <path d="M18 30 C18 28 20 26 22 26 L28 26" stroke="#0B6F73" stroke-width="1.4" stroke-linecap="round" opacity="0.6"/>
+  <path d="M25 23 L28 26 L25 29" stroke="#0B6F73" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+</svg>
